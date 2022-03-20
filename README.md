@@ -11,7 +11,10 @@ This is a sample Java / Maven / Spring Boot (version 2.6.4) Listing application.
 <h2>How to run</h2>
 <pre><ol>
   <li>git clone https://github.com/Boukataya/three-sixty-backend-assessment.git</li>
-  <li>or run java -jar three-sixty-backend-assessment-0.0.1-SNAPSHOT.war  three-sixty-backend-assessment/target</li>
+  
+  <li>run mysql</li>
+  <li>run java -jar three-sixty-backend-assessment-0.0.1-SNAPSHOT.war</li>
+  inside the folder target
 </ol>
 
 </pre>
