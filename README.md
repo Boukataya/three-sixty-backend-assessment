@@ -4,8 +4,8 @@ This is a sample Java / Maven / Spring Boot (version 2.6.4) Listing application.
 
 <h2>Requirements</h2>
 <pre><ol>
-  <li>Java - 1.8.x</li>
-   <li>JMaven - 3.x.x</li>
+  <li>Java - 11</li>
+   <li>JMaven - 4.x.x</li>
 </ol></pre>
 
 <h2>Ddatabase</h2>
