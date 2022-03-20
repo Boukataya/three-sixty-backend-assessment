@@ -11,10 +11,10 @@ This is a sample Java / Maven / Spring Boot (version 2.6.4) Listing application.
 <h2>How to run</h2>
 <pre><ol>
   <li>git clone https://github.com/Boukataya/three-sixty-backend-assessment.git</li>
-  
+  <li>open src/main/resources/application.properties and change <code>spring.datasource.username</code> and <code>spring.datasource.password</code>
+  <li>use Intellij or eclipse to build the project, | Alternatively, you can run the app without packaging it using mvn spring-boot:run</li>
   <li>run mysql</li>
-  <li>run java -jar three-sixty-backend-assessment-0.0.1-SNAPSHOT.war</li>
-  inside the folder target
+  <li>The app will start running at http://localhost:8080.</li>
 </ol>
 
 </pre>
