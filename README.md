@@ -36,6 +36,7 @@ PUT /api/unpublish/{listingId}
 
 PUT /api/update-listing/{listingId}
 </pre>
+You can test them using postman or any other rest client.
 
 
 
