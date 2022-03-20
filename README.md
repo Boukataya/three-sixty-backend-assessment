@@ -8,6 +8,14 @@ This is a sample Java / Maven / Spring Boot (version 2.6.4) Listing application.
    <li>JMaven - 4.x.x</li>
 </ol></pre>
 
+<h2>How to run</h2>
+<pre><ol>
+  <li>git clone https://github.com/Boukataya/three-sixty-backend-assessment.git</li>
+  <li>or run java -jar three-sixty-backend-assessment-0.0.1-SNAPSHOT.war  three-sixty-backend-assessment/target</li>
+</ol>
+
+</pre>
+
 <h2>Ddatabase</h2>
 <pre>This project uses an in-memory database (H2) so that you don't have to install a database in order to run it. </pre>
 
